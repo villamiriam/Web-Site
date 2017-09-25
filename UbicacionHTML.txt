@@ -1,0 +1,26 @@
+<html >
+ <head >
+  <title>WEB SITE Villa Miriam UBICACION 
+  </title>
+<style>
+  h1{color:white}
+</style>  
+</head>
+  <body <BODY BACKGROUND="BackGround.png">>
+    <center>
+    <p>
+     <strong>
+      <big>
+       <font size="15">
+         <h1>Villa Miriam</h1>
+       </font>
+      </big>
+     </strong>
+    </p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7869.478738839598!2d-84.48276052868732!3d9.531358053452191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa1bd09ba983731%3A0x107d626380bbfd0c!2sProvincia+de+Puntarenas%2C+Esterillos+Centro%2C+Costa+Rica!5e0!3m2!1ses-419!2s!4v1499141446175" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>">
+  </body>
+</html>
+
+ 
+
+

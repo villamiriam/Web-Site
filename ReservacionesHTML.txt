@@ -1,0 +1,38 @@
+<html>
+ <head>
+  <title> 
+    WEB SITE Villa Miriam WEB-HTML
+  </title>
+ </head>
+ <style>
+  h1{color:white}
+ </style>  
+  <body <BODY BACKGROUND="BackGround.png">>
+    <center>
+    <br><br>
+    <br><br>
+    <br><br>
+    <p>
+     <strong>
+      <big>
+       <font size="15">
+         <h1>Villa Miriam</h1>
+       </font>
+      </big>
+     </strong>
+    </p>
+    <hr width=30% align=center size=10 color="red">
+       <font size="4" color="Black"> 
+      Sus reservaciones a los siguientes teléfonos:<b>
+      </b> 
+      </font>
+    <font size="4">
+    <br>
+    <B>Celular: 8392-1554</B><br>
+    <B>Oficina: 22xx-xxxx</B><br>
+   </font>  
+    <hr width=30% align=center size=10 color="red">
+  </body>
+</html>
+   
+ 

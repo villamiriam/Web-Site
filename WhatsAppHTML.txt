@@ -1,0 +1,24 @@
+<html>
+ <head>
+  <title> 
+    WEB SITE Villa Miriam WHATSAPP
+  </title>
+<style>
+  h1{color:white}
+</style>   
+</head>
+  <body <BODY BACKGROUND="BackGround.png">>
+  <hr width=25% align=center size=8 color="red">
+  <center>
+  <font size="4" color= "black">
+      Si te deseas afiliar a nuestro <br>
+      Grupo de WhatsApp                  <br>
+      Con el propósito de recibir        <br>
+      comunicados puedes llamar al 8392-1554</b><br>
+   </font>
+   <hr width=25% align=center size=8 color="red">
+  </center>
+ </body>
+</html>
+
+

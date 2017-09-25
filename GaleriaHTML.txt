@@ -1,0 +1,31 @@
+<html >
+ <head >
+  <title> 
+    WEB SITE Villa Miriam GALERIA
+  </title>
+ </head>
+  <style>
+  h1{color:white}
+ </style>  
+ <body <BODY BACKGROUND="BackGround.png">>
+  <center>
+     <p>
+     <strong>
+      <big>
+       <font size="15">
+         <h1>Villa Miriam</h1>
+       </font>
+      </big>
+     </strong>
+    </p>
+  <hr width=25% align=center size=10 color="red">
+  <center>
+      <IMG src="Imagen-01.jpg" width=300 height=300></a><br><br>
+      <IMG src="Imagen-02.jpg" width=300 height=300></a><br><br>
+      <IMG src="Imagen-03.jpg" width=300 height=300></a><br><br>
+      <IMG src="Imagen-04.jpg" width=300 height=300></a><br><br>
+      <IMG src="Imagen-05.jpg" width=300 height=300></a><br><br>
+  </body>
+</html>
+
+
