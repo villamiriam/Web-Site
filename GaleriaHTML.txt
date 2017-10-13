@@ -20,11 +20,29 @@
     </p>
   <hr width=25% align=center size=10 color="red">
   <center>
-      <IMG src="Imagen-01.jpg" width=300 height=300></a><br><br>
-      <IMG src="Imagen-02.jpg" width=300 height=300></a><br><br>
-      <IMG src="Imagen-03.jpg" width=300 height=300></a><br><br>
-      <IMG src="Imagen-04.jpg" width=300 height=300></a><br><br>
-      <IMG src="Imagen-05.jpg" width=300 height=300></a><br><br>
+   <IMG src="Piscina-01.jpg" width=400 height=400></a><br><br>
+   <IMG src="Piscina-02.jpg" width=400 height=400></a><br><br>
+   <IMG src="Piscina-03.jpg" width=400 height=400></a><br><br>
+   <IMG src="Piscina-04.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-01.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-02.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-03.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-04.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-05.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-06.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-07.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaA-08.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaB-01.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaB-02.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaB-03.jpg" width=400 height=400></a><br><br>
+   <IMG src="CabinaB-04.jpg" width=400 height=400></a><br><br>
+   <IMG src="Playa-01.jpg" width=400 height=400></a><br><br>
+   <IMG src="Playa-02.jpg" width=400 height=400></a><br><br>
+   <IMG src="Playa-03.jpg" width=400 height=400></a><br><br>
+   <IMG src="Playa-04.jpg" width=400 height=400></a><br><br>
+   <IMG src="Playa-05.jpg" width=400 height=400></a><br><br>
+   <IMG src="Actividad-01.jpg" width=400 height=400></a><br><br>
+   <IMG src="Actividad-02.jpg" width=400 height=400></a><br><br>
   </body>
 </html>
 
