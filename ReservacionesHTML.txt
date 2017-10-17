@@ -23,12 +23,12 @@
     </p>
     <hr width=30% align=center size=10 color="red">
        <font size="4" color="Black"> 
-      Sus reservaciones a los siguientes teléfonos:<b>
+      Sus reservaciones a los siguientes telÃ©fonos:<b>
       </b> 
       </font>
     <font size="4">
     <br>
-    <B>Celular: 8392-1554 con Sr.  Tobías Víquez</B><br>
+    <B>Celular: 8392-1554 con Sr.  Tobias Viquez</B><br>
     <B>Celular: 8347-7760 con Sra. Laura Maduro </B><br>
    </font>  
     <hr width=30% align=center size=10 color="red">
